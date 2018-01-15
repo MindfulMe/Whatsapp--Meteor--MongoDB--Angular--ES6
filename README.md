@@ -13,3 +13,12 @@ The process is pretty same as for Windows
 
 More details
 https://www.meteor.com/tutorials/blaze/creating-an-app
+
+
+
+
+# To do:
+### A real phone number verification, via sms.
+(https://www.twilio.com/docs/api/rest/request)
+### Adding a cloud support 
+(https://www.meteor.com/hosting)
